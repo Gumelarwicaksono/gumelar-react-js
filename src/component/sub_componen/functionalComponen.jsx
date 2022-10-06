@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './style.css';
+import './Style.css';
 
 const FunctionComponen = ({ nama }) => {
   const [value, setValue] = useState(0);
