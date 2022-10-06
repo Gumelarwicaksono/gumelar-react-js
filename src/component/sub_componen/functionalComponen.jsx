@@ -16,14 +16,14 @@ const FunctionComponen = ({ nama }) => {
     <div>
       <div className="container">
         <div>
-          <h5>// state in functionalComponen</h5>
+          <h5> state in functionalComponen</h5>
           <p>
             value ditambahkan : <span style={{ color: 'red' }}>{value}</span>
           </p>
           <button onClick={plusHendler}>klick value + </button>
         </div>
         <br />
-        <h5>//props in functionalComponen</h5>
+        <h5>props in functionalComponen</h5>
         <ul>{res}</ul>
       </div>
     </div>
