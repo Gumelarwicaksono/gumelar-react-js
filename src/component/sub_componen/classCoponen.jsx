@@ -44,7 +44,7 @@ class classComponen extends React.Component {
           <h1>{this.props.nama}</h1>
         </div>
         <div className="container">
-          <h3>//penjumlahan mengunakan state in classComponen</h3>
+          <h3>penjumlahan mengunakan state in classComponen</h3>
           <div>
             <div className="dis">
               <p>nilai 1 = </p>
