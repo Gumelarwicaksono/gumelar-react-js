@@ -9,7 +9,11 @@ const FunctionComponen = ({ nama }) => {
   };
 
   const res = nama.map((element) => {
-    return <li style={{ color: 'red' }}>{element}</li>;
+    return (
+      <li key={element.toString()} style={{ color: 'red' }}>
+        {element}
+      </li>
+    );
   });
 
   return (
