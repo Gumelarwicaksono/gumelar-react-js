@@ -1,9 +1,9 @@
-import Component from './component/Index';
+import Komponent from './componen/index';
 
 function App() {
   return (
     <div className="App">
-      <p>gagal terus ey</p>
+      <Komponent />
     </div>
   );
 }
