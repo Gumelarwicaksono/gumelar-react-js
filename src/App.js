@@ -3,7 +3,7 @@ import Component from './component/Index';
 function App() {
   return (
     <div className="App">
-      <Component />
+      <p>gagal terus ey</p>
     </div>
   );
 }
