@@ -27,7 +27,7 @@ class classComponen extends React.Component {
           <h1>{this.props.nama}</h1>
         </div>
         <div>
-          <h1>Simple Calculator</h1>
+          <h3>penjumlahan </h3>
           <form onSubmit={this.exe}>
             <div>
               Number 1:
