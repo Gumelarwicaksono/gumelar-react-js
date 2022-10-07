@@ -1,9 +1,7 @@
-import Component from './component/Index';
-
 function App() {
   return (
     <div className="App">
-      <Component />
+      <p>membuat halaman pertama saya dengan react app</p>
     </div>
   );
 }

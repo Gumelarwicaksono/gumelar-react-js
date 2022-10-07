@@ -2,7 +2,7 @@ import React from 'react';
 import ClassComponen from './sub_componen/ClassCoponen';
 import FunctionalComponen from './sub_componen/FunctionalComponen';
 
-export default class component extends React.Component {
+class component extends React.Component {
   render() {
     const mern = ['mongodb', 'exspres', 'react', 'nodejs'];
     return (
@@ -13,3 +13,5 @@ export default class component extends React.Component {
     );
   }
 }
+
+export default component;
