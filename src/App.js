@@ -1,4 +1,4 @@
-import Komponent from './componen/index';
+import Komponent from './componen/index.js';
 
 function App() {
   return (
