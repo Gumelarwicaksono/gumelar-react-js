@@ -4,7 +4,7 @@ export default class component extends React.component {
   render() {
     return (
       <>
-        <h1>create react app</h1>
+        <h1>create react app deploy to heroku sucsess....</h1>
       </>
     );
   }
